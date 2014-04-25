@@ -1,0 +1,8 @@
+﻿<Window x:Class="BlockGame.Config"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Config" Height="300" Width="300">
+    <Grid Name="container">
+        <StatusBar Name="sbStatus" HorizontalAlignment="Left" Height="15" Margin="0,254,0,0" VerticalAlignment="Top" Width="292"/>
+    </Grid>
+</Window>
